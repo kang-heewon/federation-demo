@@ -1,0 +1,8 @@
+{
+  "name": "products",
+  "dependencies": {
+    "@apollo/subgraph": "^2.4.2",
+    "apollo-server": "latest",
+    "graphql": "latest"
+  }
+}
